@@ -34,6 +34,11 @@ function updateUIByLocal() {
         }else{
             txtIsFunction.innerHTML = "关";
         }
+        if(restoredSettings.isCopy){
+            txtIsCopyAlert.innerHTML = "关";
+        }else{
+            txtIsCopyAlert.innerHTML = "开";
+        }
         if(patterns != undefined && patterns.length != 0){
             var html = "";
             var j;

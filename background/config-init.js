@@ -1,7 +1,7 @@
 /*
 Default settings. Initialize storage to these values.
  */
-var configs = ["https://cache.video.iqiyi.com/jp/dash?*", 
+var configs = [
     "*://*/*.flv", 
     "*://*/*.flv?*", 
     "*://*/*.mp4", 
