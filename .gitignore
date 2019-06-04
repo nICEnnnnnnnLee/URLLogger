@@ -1,0 +1,10 @@
+/.project
+/.settings
+/.classpath
+*/download
+*.log
+*.config
+/bin
+/target
+/web-ext-artifacts
+.web-extension-id

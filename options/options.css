@@ -1,0 +1,26 @@
+body {
+  width: 100%;
+  font-family: "Open Sans Light", sans-serif;
+  font-size: 0.9em;
+  font-weight: 300;
+}
+
+
+input[type="button"] {
+  width: 75px;
+  margin-bottom: 0.5em;
+  display:inline;
+  text-align: center;
+}
+h3 {
+    text-align: center;
+}
+span {
+    display:inline;
+    text-align: center;
+}
+
+textarea {
+	width: 90%;
+    margin: 0 auto;
+}
